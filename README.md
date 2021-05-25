@@ -1,2 +1,2 @@
 mirageciel 20213021
-Kookmin Univ.computer
+Kookmin Univ. Software
